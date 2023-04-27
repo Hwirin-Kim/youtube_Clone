@@ -1,0 +1,42 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "7A2AQX3NdCwjbbY_gkISU4VULeU",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "oBBBemJNOejpYfVqo08fPcGz2tI",
+      "id": "UCbMKoo6wfso8GU4Z1E3F2oA",
+      "snippet": {
+        "title": "About Me 어바웃미",
+        "description": "안녕하세요 ~~!\n하윤이의 일상과 매력을 파헤쳐볼수있는 유튜브 채널입니다 좋아요와 구독 많이많이 해주세요",
+        "customUrl": "@aboutme3229",
+        "publishedAt": "2018-06-28T05:41:22Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJUzgdA2EG7i3756e62k_enHEqS5ZTIU-_MFw32E0mw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJUzgdA2EG7i3756e62k_enHEqS5ZTIU-_MFw32E0mw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJUzgdA2EG7i3756e62k_enHEqS5ZTIU-_MFw32E0mw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "About Me 어바웃미",
+          "description": "안녕하세요 ~~!\n하윤이의 일상과 매력을 파헤쳐볼수있는 유튜브 채널입니다 좋아요와 구독 많이많이 해주세요"
+        }
+      }
+    }
+  ]
+}
